@@ -17,7 +17,7 @@
 }
 
 .light{
-    --bg-url: url(../img/bg-desktop.jpg) ;
+    --bg-url: url(../img/bg-desktop-light.jpg);
     --text-color: #000;
     --stroke-color: rgba(0, 0, 0 , 0.5);
     --surface-color: rgba(0, 0, 0, 0.1);
